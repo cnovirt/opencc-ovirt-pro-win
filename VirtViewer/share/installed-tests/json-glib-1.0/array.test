@@ -1,0 +1,3 @@
+[Test]
+Type=session
+Exec=/usr/x86_64-w64-mingw32/sys-root/mingw/libexec/installed-tests/json-glib-1.0/array
